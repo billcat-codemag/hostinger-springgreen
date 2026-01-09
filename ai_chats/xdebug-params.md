@@ -1,6 +1,6 @@
 # xdebug-params (GPT-4.1)
 
-## what are all the possible xdebug parameters for t he current file?
+## what are all the possible xdebug parameters for the current file?
 
 In an `.ini` file for Xdebug, you can use the following parameters (for Xdebug 3.x, which matches your usage):
 
